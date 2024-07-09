@@ -1,0 +1,6 @@
+{
+  "app_name": "cloud_restaruant",
+  "app_mode": "debug",
+  "host": "localhost",
+  "app_port": "8090"
+}
